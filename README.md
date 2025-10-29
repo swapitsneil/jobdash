@@ -47,7 +47,7 @@ Built for **beginners** using **pandas + matplotlib** — **clean, simple, job-r
 
 ---
 
-##📊 Key Analysis & Insights
+## 📊 Key Analysis & Insights
 The data analysis covers a dataset of 15,000 AI job entries and provides key insights into:
 
 Average Salaries: Analyze salary distribution globally (in USD) to understand the financial landscape of AI roles.
@@ -64,7 +64,7 @@ Geographic Trends: Identify which industries and countries are hiring the most f
 
 ---
 
-##Category	Tool	Description
+## Category	Tool	Description
 Data Analysis	Python	The core programming language for data manipulation.
 Data Processing	Pandas, NumPy	Used to load, clean, and transform the AI job data.
 Visualization Prep	Matplotlib, Seaborn	Libraries for statistical visualizations and data exploration.
@@ -72,7 +72,7 @@ Dashboard	Power BI	Used to create the interactive AI Jobs Dashboard.pbix file.
 
 --- 
 
-##📁 Repository Structure
+## 📁 Repository Structure
 aijobs.ipynb: The Jupyter Notebook containing the complete Python data analysis and exploratory data visualization.
 
 AI Jobs Dashboard.pbix: The source file for the interactive Power BI Dashboard.
@@ -81,7 +81,7 @@ ai_job_dataset.csv: The dataset used for this project (not included in the file 
 
 ---
 
-##💻 Getting Started
+## 💻 Getting Started
 Prerequisites
 Python 3.x
 
