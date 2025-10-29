@@ -24,16 +24,16 @@ Built for **beginners** using **pandas + matplotlib** — **clean, simple, job-r
 ---
 
 ## Problem/Insight
-- 1️⃣Average Salary by Experience 💰,$180K (Executive Level)
-- 2️⃣Top 5 Highest-Paying Roles 👑,ML Engineer: $160K
-- 3️⃣Salary by Company Size 🏢,Large (L): $110K
-- 4️⃣Which Company Size Pays Most? 🚀,L (Large) > M (Medium) > S (Small)
-- 5️⃣Experience vs Salary Correlation 🔗,r=0.69 (Strong Positive)
-- 6️⃣Remote Work Distribution 🏡,"37% on-site, 34% fully remote"
-- 7️⃣Top 5 Industries by Benefits ⭐,Consulting: 8.1/10 Benefit Score
-- 8️⃣Top 10 Industries by Jobs 💼,Finance: 10 jobs
-- 9️⃣Salary by Education 🎓,Associate's Degree: $115K
-- 🔟Job Postings by Month 📅,Peak in June & August
+- Average Salary by Experience 💰,$180K (Executive Level)
+- Top 5 Highest-Paying Roles 👑,ML Engineer: $160K
+- Salary by Company Size 🏢,Large (L): $110K
+- Which Company Size Pays Most? 🚀,L (Large) > M (Medium) > S (Small)
+- Experience vs Salary Correlation 🔗,r=0.69 (Strong Positive)
+- Remote Work Distribution 🏡,"37% on-site, 34% fully remote"
+- Top 5 Industries by Benefits ⭐,Consulting: 8.1/10 Benefit Score
+- Top 10 Industries by Jobs 💼,Finance: 10 jobs
+- Salary by Education 🎓,Associate's Degree: $115K
+- Job Postings by Month 📅,Peak in June & August
 
 ---
 
