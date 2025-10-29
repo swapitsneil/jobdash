@@ -23,20 +23,17 @@ Built for **beginners** using **pandas + matplotlib** — **clean, simple, job-r
 
 ---
 
-## 10 Business Problems Solved  
-
-| # | Problem |
-|---|--------|-----------|
-| 1 | **Average Salary by Experience** | EX: **$180K** |
-| 2 | **Top 5 Highest-Paying Roles** | ML Engineer: **$160K** |
-| 3 | **Salary by Company Size** | Large (L): **$110K** |
-| 4 | **Which Company Size Pays Most?** | **L > M > S** |
-| 5 | **Experience vs Salary Correlation** | **r = 0.69** (Strong) |
-| 6 | **Remote Work Distribution** | **37% on-site, 34% full remote** |
-| 7 | **Top 5 Industries by Benefits** | Consulting: **8.1/10** |
-| 8 | **Top 10 Industries by Jobs** | Finance: **10 jobs** |
-| 9 | **Salary by Education** | Associate: **$115K** |
-| 10| **Job Postings by Month** | **June & August** peak |
+#,Problem,Example/Insight
+1️⃣,Average Salary by Experience 💰,$180K (Executive Level)
+2️⃣,Top 5 Highest-Paying Roles 👑,ML Engineer: $160K
+3️⃣,Salary by Company Size 🏢,Large (L): $110K
+4️⃣,Which Company Size Pays Most? 🚀,L (Large) > M (Medium) > S (Small)
+5️⃣,Experience vs Salary Correlation 🔗,r=0.69 (Strong Positive)
+6️⃣,Remote Work Distribution 🏡,"37% on-site, 34% fully remote"
+7️⃣,Top 5 Industries by Benefits ⭐,Consulting: 8.1/10 Benefit Score
+8️⃣,Top 10 Industries by Jobs 💼,Finance: 10 jobs
+9️⃣,Salary by Education 🎓,Associate's Degree: $115K
+🔟,Job Postings by Month 📅,Peak in June & August
 
 ---
 
