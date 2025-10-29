@@ -1,5 +1,5 @@
-# jobdash - AI Job Market Dashboard  
-*10 Real-World Business Problems Solved with Python*  
+# 🚀 JobDash: The AI Jobs Market Dashboard
+Welcome to JobDash, your comprehensive dashboard for analyzing the ever-evolving Artificial Intelligence job market! This project combines detailed data analysis with powerful visualization to uncover key trends in AI salaries, skills, and industry demands.
 
 ---
 
@@ -25,7 +25,7 @@ Built for **beginners** using **pandas + matplotlib** — **clean, simple, job-r
 
 ## 10 Business Problems Solved  
 
-| # | Problem | Key Insight |
+| # | Problem |
 |---|--------|-----------|
 | 1 | **Average Salary by Experience** | EX: **$180K** |
 | 2 | **Top 5 Highest-Paying Roles** | ML Engineer: **$160K** |
@@ -47,10 +47,67 @@ Built for **beginners** using **pandas + matplotlib** — **clean, simple, job-r
 
 ---
 
-## How to Run  
-```bash
-# 1. Install
-pip install pandas matplotlib
+##📊 Key Analysis & Insights
+The data analysis covers a dataset of 15,000 AI job entries and provides key insights into:
 
-# 2. Run in Jupyter or .py file
-python ai_jobs_analysis.py
+Average Salaries: Analyze salary distribution globally (in USD) to understand the financial landscape of AI roles.
+
+Fun Fact: The dataset shows salaries ranging from approximately $32k USD to nearly $400k USD.
+
+In-Demand Skills: Discover the most frequently required technical skills, such as Python, Deep Learning, SQL, Kubernetes, and more.
+
+Experience vs. Pay: Compare salaries across different experience levels (e.g., Entry, Mid-level, Senior, Executive).
+
+Work Arrangement: Examine the ratio of fully remote (100%), hybrid (50%), and on-site (0%) job opportunities.
+
+Geographic Trends: Identify which industries and countries are hiring the most for AI and Data Science roles.
+
+---
+
+##Category	Tool	Description
+Data Analysis	Python	The core programming language for data manipulation.
+Data Processing	Pandas, NumPy	Used to load, clean, and transform the AI job data.
+Visualization Prep	Matplotlib, Seaborn	Libraries for statistical visualizations and data exploration.
+Dashboard	Power BI	Used to create the interactive AI Jobs Dashboard.pbix file.
+
+--- 
+
+##📁 Repository Structure
+aijobs.ipynb: The Jupyter Notebook containing the complete Python data analysis and exploratory data visualization.
+
+AI Jobs Dashboard.pbix: The source file for the interactive Power BI Dashboard.
+
+ai_job_dataset.csv: The dataset used for this project (not included in the file list, but referenced in the notebook).
+
+---
+
+##💻 Getting Started
+Prerequisites
+Python 3.x
+
+Jupyter Notebook (or Google Colab)
+
+Microsoft Power BI Desktop (for viewing the .pbix file)
+
+Running the Analysis
+Clone the repository:
+
+    git clone https://github.com/swapitsneil/jobdash.git
+    cd jobdash
+    
+Install the required Python libraries:
+
+    pip install pandas numpy matplotlib seaborn
+
+Open the Jupyter Notebook:
+
+    jupyter notebook aijobs.ipynb
+    
+Viewing the Dashboard
+Download and install Power BI Desktop.
+
+Open the AI Jobs Dashboard.pbix file directly in Power BI Desktop.
+
+---
+✍️ Author
+Swapnil Nicolson Dadel - swapitsneil
